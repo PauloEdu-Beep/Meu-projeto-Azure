@@ -15,12 +15,12 @@ com base na linguagem algumas de suas ferramentas listadas:
 Os teste foram realizados com as seguintes ferramentas:  
 - Analise de Sentimento e Extração de Opniões  
 Frase Utilizada: "Muito pequeno pra ser tamanho g. O comprimento dele é pra um bebê bem pequeno.  
-  O macacão é lindo, mas uma pena que não serviu."
-  Primeiro Teste:
-  ![IMG EX.1](./Capturadetela2025-08-07145858.png)
+  O macacão é lindo, mas uma pena que não serviu."  
+  Resultado: 34,00% Positivo;  21,00% Neutro;  45,00% Negativo.  
+  
 - Extração de Frases-Chave
   Utilizado Texto fonecido de exemplo no Azure Language
-  
+  ![ImageTeste.2](/.)
 ## Aprendizados:
 Após utilização dos recursos pode se concluir que   
 
