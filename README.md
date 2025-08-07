@@ -13,10 +13,16 @@ com base na linguagem algumas de suas ferramentas listadas:
 - Tradução de Documentos
 ## Testes:
 Os teste foram realizados com as seguintes ferramentas:  
-- Analise de Sentimento e Extração de Opniões
-- Detectar Idioma
-- 
+- Analise de Sentimento e Extração de Opniões  
+Frase Utilizada: "Muito pequeno pra ser tamanho g. O comprimento dele é pra um bebê bem pequeno.  
+  O macacão é lindo, mas uma pena que não serviu."
+  ![  
+- Extração de Frases-Chave
+  Utilizado Texto fonecido de exemplo no Azure Language
+  
 ## Aprendizados:
+Após utilização dos recursos pode se concluir que   
+
 
 ## Referências:
 
