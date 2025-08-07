@@ -17,10 +17,10 @@ Os teste foram realizados com as seguintes ferramentas:
 Frase Utilizada: "Muito pequeno pra ser tamanho g. O comprimento dele é pra um bebê bem pequeno.  
   O macacão é lindo, mas uma pena que não serviu."  
   Resultado: 34,00% Positivo;  21,00% Neutro;  45,00% Negativo.  
-  
+  ![ImageTeste.1]()
 - Extração de Frases-Chave
   Utilizado Texto fonecido de exemplo no Azure Language
-  ![ImageTeste.2](/.)
+  ![ImageTeste.2](Teste2.img.png)
 ## Aprendizados:
 Após utilização dos recursos pode se concluir que   
 
