@@ -16,7 +16,8 @@ Os teste foram realizados com as seguintes ferramentas:
 - Analise de Sentimento e Extração de Opniões  
 Frase Utilizada: "Muito pequeno pra ser tamanho g. O comprimento dele é pra um bebê bem pequeno.  
   O macacão é lindo, mas uma pena que não serviu."
-  ![IMG EX.1](./)
+  Primeiro Teste:
+  ![IMG EX.1](./Captura de tela 2025-08-07 145858.png)
 - Extração de Frases-Chave
   Utilizado Texto fonecido de exemplo no Azure Language
   
