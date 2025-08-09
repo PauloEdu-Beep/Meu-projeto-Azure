@@ -44,7 +44,11 @@ da Azure que visa fazer trabalhos utilizando Audio.
 ## Testes:
 As ferramnetas do Speech utilizadas foram:  
 - Tradução de Fala
-  
 - Conversão de fala em texto em tempo real
+  Os resultados foram:
+  Tradução de Fala
+  ![Teste da tradução de fala]()
+  Conversão de fala em texto em tempo real
+  ![Teste de Converção de fala em Texto]() 
 ## Aprendizados:
 ## Referências:
